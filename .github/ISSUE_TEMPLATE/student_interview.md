@@ -1,6 +1,6 @@
 ---
-name: Interview
-about: Track an interview project from kickoff to launch
+name: Student interview projects
+about: Track a student interview project from kickoff to launch
 title: ''
 labels: ''
 assignees: ''
